@@ -16,3 +16,4 @@ set wildignore+=*/node_modules/**
 " NERD Tree goggle
 map <C-n> :NERDTree<CR>
 " hi how are you
+" i'm doing well thank you
