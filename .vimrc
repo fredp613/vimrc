@@ -11,3 +11,7 @@ syntax on
 inoremap jj <esc>
 " ctrlp dependency
 set runtimepath^=~/.vim/bundle/ctrlp.vim
+set wildignore+=*/tmp/*,*.so,*.swp,*.zip     " Linux/MacOSX
+set wildignore+=*/node_modules/**
+" NERD Tree goggle
+map <C-n> :NERDTree<CR>
