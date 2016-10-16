@@ -17,3 +17,4 @@ set wildignore+=*/node_modules/**
 map <C-n> :NERDTree<CR>
 " hi how are you
 " i'm doing well thank you
+" im from the mac
