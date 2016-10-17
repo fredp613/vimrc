@@ -21,3 +21,4 @@ map <C-n> :NERDTree<CR>
 " im from the ipad again
 " last comment
 " hi 
+" hi this is fred pearson
