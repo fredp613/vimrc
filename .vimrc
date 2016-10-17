@@ -15,10 +15,4 @@ set wildignore+=*/tmp/*,*.so,*.swp,*.zip     " Linux/MacOSX
 set wildignore+=*/node_modules/**
 " NERD Tree goggle
 map <C-n> :NERDTree<CR>
-" hi how are you
-" i'm doing well thank you
-" im from the mac
-" im from the ipad again
-" last comment
-" hi 
-" hi this is fred pearson
+
