@@ -20,3 +20,4 @@ map <C-n> :NERDTree<CR>
 " im from the mac
 " im from the ipad again
 " last comment
+" hi 
