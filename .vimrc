@@ -8,6 +8,7 @@ set number
 set tabstop=4
 set shiftwidth=4
 syntax on
+set nocompatible
 inoremap jj <esc>
 " ctrlp dependency
 set runtimepath^=~/.vim/bundle/ctrlp.vim
@@ -16,4 +17,5 @@ set wildignore+=*/node_modules/**
 " NERD Tree goggle
 map <C-n> :NERDTree<CR>
 
-
+command! Wq wq
+command! Q q
