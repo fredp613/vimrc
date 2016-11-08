@@ -16,6 +16,7 @@ set wildignore+=*/tmp/*,*.so,*.swp,*.zip     " Linux/MacOSX
 set wildignore+=*/node_modules/**
 " NERD Tree goggle
 map <C-n> :NERDTree<CR>
+map <C-t> :NERDTreeToggle<CR>
 
 command! Wq wq
 command! Q q
