@@ -1,6 +1,7 @@
 " install these things:
 " pathogen plugin 
 " NERTTree
+" surround.vim
 " ctrlp: fuzzysearching: http://kien.github.io/ctrlp.vim/
 
 exec pathogen#infect()
@@ -20,3 +21,4 @@ map <C-t> :NERDTreeToggle<CR>
 
 command! Wq wq
 command! Q q
+autocmd BufNewFile,BufRead *.*html set syntax=html
